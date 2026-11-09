@@ -25,7 +25,8 @@ While the spheres swing, the UI dynamically calculates:
 * **Conservation of Kinetic Energy:** $\frac{1}{2}m_1v_1^2 + \frac{1}{2}m_2v_2^2 = \frac{1}{2}m_1v_1'^2 + \frac{1}{2}m_2v_2'^2$
 * **Pendulum Restoring Force:** $F = -mg \sin(\theta)$
 
----
+---<img width="1917" height="1078" alt="Screenshot 2026-11-08 231458" src="https://github.com/user-attachments/assets/e03082f4-c962-4edb-a77a-62acfb1a675c" />
+
 
 ## 🚀 Run It Locally
 

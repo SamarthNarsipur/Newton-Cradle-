@@ -1,14 +1,14 @@
-# 🎱 Newton’s Cradle (Now With 100% More Math)
+#  Newton’s Cradle (Now With 100% More Math)
 
 > *"For every action, there is an equal and opposite reaction—especially when you click and drag the leftmost ball like a caffeinated toddler."*
 
 An interactive, physics-powered **Newton’s Cradle** web app that doesn’t just look hypnotic—it shows off its homework with **live, real-time physics formulas** updating as the spheres collide.
 
-🔗 **[Launch the Live Demo](https://samarthnarsipur.github.io/Newton-Cradle-/)** *(Go ahead, break the laws of thermodynamics—we dare you.)*
+**[Launch the Live Demo](https://samarthnarsipur.github.io/Newton-Cradle-/)** *(Go ahead, break the laws of thermodynamics—we dare you.)*
 
 ---
 
-## ✨ Features
+##  Features
 
 * **Satisfying Clack-Clack Physics:** Accurate momentum and energy transfer without cluttering up your actual desk.
 * **Live Formula HUD:** Watch conservation of momentum ($p = mv$), kinetic energy ($KE = \frac{1}{2}mv^2$), and pendulum dynamics update in real time.
@@ -17,7 +17,7 @@ An interactive, physics-powered **Newton’s Cradle** web app that doesn’t jus
 
 ---
 
-## 🤓 The Math Behind the Clack
+##  The Math Behind the Clack
 
 While the spheres swing, the UI dynamically calculates:
 
@@ -28,27 +28,10 @@ While the spheres swing, the UI dynamically calculates:
 ---<img width="1917" height="1078" alt="Screenshot 2026-11-08 231458" src="https://github.com/user-attachments/assets/e03082f4-c962-4edb-a77a-62acfb1a675c" />
 
 
-## 🚀 Run It Locally
-
-Want to poke around the source code?
-
-```bash
-# Clone the repo
-git clone https://github.com
-
-# Enter the lab
-cd Newton-Cradle-
-
-# Open index.html (or start a local server)
-npx serve .
-```
-
----
-
-## 🤝 Contributing
+##  Contributing
 
 Found a bug where energy isn't conserved and you accidentally invented a perpetual motion machine? Open an issue or submit a PR in the [Newton-Cradle- repository](https://github.com/SamarthNarsipur/Newton-Cradle-)!
 
 ---
 
-*Built with ☕, physics, and questionable amounts of momentum by [Samarth Narsipur](https://github.com/SamarthNarsipur).*
+*Built with coffee, physics, and questionable amounts of momentum by [Samarth Narsipur](https://github.com/SamarthNarsipur).*
